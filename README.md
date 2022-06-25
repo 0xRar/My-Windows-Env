@@ -56,7 +56,7 @@ text editors like vim or nano to use the keyboard more, which is really good for
 
 
 ## Terminal/CLI
-Just like every windows user i used to use the defualt cmd or the normal system command prompt but now i use Windows Terminal(Powershell 7.2) as default instead, which is an application you can find in the microsoft store and also i use some WSL also available in the microsft store.
+Just like every windows user i used to use the defualt cmd or the normal system command prompt but now i use Windows Terminal(Powershell 7.2) as default instead, which is an application you can find in the microsoft store and also i use some WSL also available in the microsoft store.
 
 
 - Apps:
