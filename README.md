@@ -28,13 +28,13 @@ but most of the time i use [Firefox Developer Edition](https://www.mozilla.org/e
 
 ## Text Editors/IDE's
 For normal text i usually use the system default notepad but i decided to use CLI based
-text editors like vim or nano to use the keyboard more, which is really good for writing, for IDE's depending on the programming language i pick an IDE or sometimes i just use Visual Studio Code and download plugins for the language support.
+text editors like vim or nano to use the keyboard more, which is really good for writing, for IDE's depending on the programming language i pick an IDE or sometimes i just use Visual Studio Code and download plugins for the language support, i also write a lot of my notes in markdown i use [Obsidian](https://obsidian.md/) but now i do that in visual studio code using some plugins to view mardown.
 
 
 - IDE:
   * [Visual Studio Code](https://code.visualstudio.com/)
   * [For java IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
+  
 
 - Themes:
   * [Material Themes](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
@@ -48,8 +48,58 @@ text editors like vim or nano to use the keyboard more, which is really good for
   * [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   * [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+  * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  * [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 
 
 ---
 
 
+## Terminal/CLI
+Just like every windows user i used to use the defualt cmd or the normal system command prompt but now i use Windows Terminal(Powershell 7.2) as default instead, which is an application you can find in the microsoft store and also i use some WSL also available in the microsft store.
+
+
+- Apps:
+  * [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us)
+  * [PowerShell 7.2](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=us)
+
+
+- WSL(Windows Subsystem for Linux):
+  * [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV?hl=en-us&gl=us)
+  * [Kali Linux](https://apps.microsoft.com/store/detail/kali-linux/9PKR34TNCV07)
+
+
+- Windows Terminal Config/Appearance:<br>
+  * Font: [`Hack`](https://github.com/source-foundry/Hack)
+  * Background: `#001B26`
+  * Transparancy: `35%`
+
+  * Default Scheme:
+  ```json
+  {
+            "background": "#001B26",
+            "black": "#282C34",
+            "blue": "#61AFEF",
+            "brightBlack": "#5A6374",
+            "brightBlue": "#61AFEF",
+            "brightCyan": "#56B6C2",
+            "brightGreen": "#98C379",
+            "brightPurple": "#C678DD",
+            "brightRed": "#E06C75",
+            "brightWhite": "#DCDFE4",
+            "brightYellow": "#E5C07B",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#56B6C2",
+            "foreground": "#DCDFE4",
+            "green": "#98C379",
+            "name": "Custom One Half Dark",
+            "purple": "#C678DD",
+            "red": "#E06C75",
+            "selectionBackground": "#FFFFFF",
+            "white": "#DCDFE4",
+            "yellow": "#E5C07B"
+  },
+  ```
+
+
+---
