@@ -101,5 +101,7 @@ Just like every windows user i used to use the defualt cmd or the normal system 
   },
   ```
 
+![image](https://user-images.githubusercontent.com/33517160/175831527-b29eeb82-1cb9-4460-80cf-a06ec63f7ed9.png)
+
 
 ---
