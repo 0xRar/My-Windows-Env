@@ -21,18 +21,19 @@ but most of the time i use [Firefox Developer Edition](https://www.mozilla.org/e
   * [Search By Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
   * [600 Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/)
   * [Vimium-FF](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
-
+  * [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 
 ---
 
 
 ## Text Editors/IDE's
 For normal text i usually use the system default notepad but i decided to use CLI based
-text editors like vim or nano to use the keyboard more, which is really good for writing, for IDE's depending on the programming language i pick an IDE or sometimes i just use Visual Studio Code and download plugins for the language support, i also write a lot of my notes in markdown i use [Obsidian](https://obsidian.md/) but now i do that in visual studio code using some plugins to view mardown.
+text editors like vim or nano to use the keyboard more, which is really good for writing, for IDE's depending on the programming language i pick an IDE or sometimes i just use Visual Studio Code and download plugins for the language support, i also write a lot of my notes in markdown i use [Obsidian](https://obsidian.md/) but now i do that in visual studio code using some plugins to view markdown, also started using [notion](https://www.notion.so/).
 
 
 - IDE:
-  * [Visual Studio Code](https://code.visualstudio.com/)
+  * Used to use: [Visual Studio Code](https://code.visualstudio.com/)
+  * Current: [VSCodium](https://vscodium.com/)
   * [For java IntelliJ IDEA](https://www.jetbrains.com/idea/)
   
 
@@ -40,14 +41,14 @@ text editors like vim or nano to use the keyboard more, which is really good for
   * [Material Themes](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
   * [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
   * [Celestial](https://marketplace.visualstudio.com/items?itemName=apvarun.celestial)
+  * [Black](https://marketplace.visualstudio.com/items?itemName=Jaakko.black)
+  * [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda)
 
 
 - Important Plugins:
   * [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   * [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-  * [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  * [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
   * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   * [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 
@@ -56,13 +57,15 @@ text editors like vim or nano to use the keyboard more, which is really good for
 
 
 ## Terminal/CLI
-Just like every windows user i used to use the defualt cmd or the normal system command prompt but now i use Windows Terminal(Powershell 7.2) as default instead, which is an application you can find in the microsoft store and also i use some WSL also available in the microsoft store.
+Just like every windows user i used to use the defualt cmd or the normal system command prompt but now i use Windows Terminal(Powershell 7.2) as default instead, which is an application you can find in the microsoft store and also i use some WSL also available in the microsoft store, for downloading i prefer downloading stuff from cli so i use scoop for that.
 
 
 - Apps:
   * [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us)
   * [PowerShell 7.2](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=us)
 
+- Package Manager:
+  * [scoop](https://scoop.sh/)
 
 - WSL(Windows Subsystem for Linux):
   * [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV?hl=en-us&gl=us)
@@ -102,6 +105,3 @@ Just like every windows user i used to use the defualt cmd or the normal system 
   ```
 
 ![image](https://user-images.githubusercontent.com/33517160/175831527-b29eeb82-1cb9-4460-80cf-a06ec63f7ed9.png)
-
-
----
