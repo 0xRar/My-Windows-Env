@@ -107,3 +107,11 @@ Just like every windows user i used to use the defualt cmd or the normal system 
   ```
 
 ![image](https://user-images.githubusercontent.com/33517160/175831527-b29eeb82-1cb9-4460-80cf-a06ec63f7ed9.png)
+
+
+---
+
+## Tiling Window Manager
+just try it, trust me on this one you wont regret it.
+
+- [FancyWM](https://www.microsoft.com/store/apps/9p1741lkhqs9?cid=storebadge&ocid=badge)
