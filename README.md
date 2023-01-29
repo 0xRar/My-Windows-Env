@@ -67,6 +67,7 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 
 - Package Manager:
   * [scoop](https://scoop.sh/)
+  * [chocolatey](https://chocolatey.org/)
 
 - WSL(Windows Subsystem for Linux):
   * [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV?hl=en-us&gl=us)
