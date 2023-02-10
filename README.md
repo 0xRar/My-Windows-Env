@@ -52,6 +52,7 @@ text editors like vim or nano to use the keyboard more, which is really good for
   * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   * [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
   * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  * [Glassit](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
   
 
 ---
