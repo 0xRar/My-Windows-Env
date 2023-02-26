@@ -31,9 +31,9 @@ For normal text i usually use the system default notepad but i decided to use CL
 text editors like vim or nano to use the keyboard more, which is really good for writing, for IDE's depending on the programming language i pick an IDE or sometimes i just use Visual Studio Code and download plugins for the language support, i also write a lot of my notes in markdown i use [Obsidian](https://obsidian.md/) but now i do that in visual studio code using some plugins to view markdown, also started using [notion](https://www.notion.so/).
 
 
-- IDE:
+- IDEs/Editors:
   * Used to use: [Visual Studio Code](https://code.visualstudio.com/)
-  * Current: [VSCodium](https://vscodium.com/)
+  * Current: [VSCodium](https://vscodium.com/), [lite-xl](https://lite-xl.com/), [helix](https://helix-editor.com/) 
   * [For java IntelliJ IDEA](https://www.jetbrains.com/idea/)
   
 
