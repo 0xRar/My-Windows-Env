@@ -1,4 +1,5 @@
 " 0xRar nvim config
+" Also using kickstart.nvim (https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua) 
 
 :set number
 :set relativenumber
