@@ -76,7 +76,7 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 
 
 - Windows Terminal Config/Appearance:<br>
-  * Font: [`Hack`](https://github.com/source-foundry/Hack)
+  * Font: [`Hack`](https://github.com/source-foundry/Hack), [`Monaco`](https://www.cufonfonts.com/font/monaco)
   * Background: `#001B26`
   * Transparancy: `35%`
 
