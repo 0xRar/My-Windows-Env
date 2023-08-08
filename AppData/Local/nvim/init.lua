@@ -1,7 +1,7 @@
 -- Rar Config
 -- Original: https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua
 
-vim.wo.relativenumber = true
+vim.wo.relativenumber = false
 vim.bo.autoindent = true
 vim.bo.smartindent = true
 
@@ -32,10 +32,8 @@ vim.opt.rtp:prepend(lazypath)
 
 require('lazy').setup({
 -- Rar Plugins 
-  'andweeb/presence.nvim',
-  'iamcco/markdown-preview.nvim',
-  'tribela/vim-transparent',
- { "catppuccin/nvim", name = "catppuccin" },
+  -- 'andweeb/presence.nvim',
+  -- 'tribela/vim-transparent',
 
   -- Git related plugins
   'tpope/vim-fugitive',
@@ -84,10 +82,12 @@ require('lazy').setup({
   },
 
   { -- (THEMES)
-    'bluz71/vim-moonfly-colors',
+    -- 'RRethy/nvim-base16',
+    'projekt0n/github-nvim-theme',
+
     priority = 1000,
     config = function()
-      vim.cmd.colorscheme 'catppuccin-frappe'
+      vim.cmd.colorscheme 'github_dark_high_contrast'
     end,
   },
 
@@ -442,4 +442,3 @@ cmp.setup {
     { name = 'luasnip' },
   },
 }
-
