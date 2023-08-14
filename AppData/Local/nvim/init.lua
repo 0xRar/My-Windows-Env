@@ -32,7 +32,8 @@ vim.opt.rtp:prepend(lazypath)
 
 require('lazy').setup({
 -- Rar Plugins 
-  -- 'andweeb/presence.nvim',
+  'andweeb/presence.nvim',
+  {'akinsho/toggleterm.nvim', version = "*", config = true},
   -- 'tribela/vim-transparent',
 
   -- Git related plugins
@@ -87,7 +88,7 @@ require('lazy').setup({
 
     priority = 1000,
     config = function()
-      vim.cmd.colorscheme 'github_dark_high_contrast'
+      vim.cmd.colorscheme 'github_dark_colorblind'
     end,
   },
 
@@ -134,6 +135,21 @@ require('lazy').setup({
   },
 
 }, {})
+
+-- Toggleterm
+require("toggleterm").setup{
+  size = 20,
+  open_mapping = [[<c-\>]],
+  hide_numbers = true,
+  shade_filetypes = {},
+  shade_terminals = true,
+  shading_factor = 2,
+  persist_size = true,
+  direction = "vertical",
+  start_in_insert = true,
+  close_on_exit = true,
+  shell = vim.o.shell
+}
 
 -- [[ Setting options ]]
 -- See `:help vim.o`
@@ -442,3 +458,4 @@ cmp.setup {
     { name = 'luasnip' },
   },
 }
+
