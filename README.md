@@ -33,7 +33,7 @@ text editors like vim or nano to use the keyboard more, which is really good for
 
 - IDEs/Editors:
   * Used to use: [Visual Studio Code](https://code.visualstudio.com/)
-  * Current: [VSCodium](https://vscodium.com/), [lite-xl](https://lite-xl.com/), [helix](https://helix-editor.com/) 
+  * Current: [VSCodium](https://vscodium.com/), [lite-xl](https://lite-xl.com/), [neovim](https://neovim.io/) 
   * [For java IntelliJ IDEA](https://www.jetbrains.com/idea/)
   
 
