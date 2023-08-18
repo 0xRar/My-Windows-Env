@@ -83,12 +83,12 @@ require('lazy').setup({
   },
 
   { -- (THEMES)
-    -- 'RRethy/nvim-base16',
-    'projekt0n/github-nvim-theme',
+    'RRethy/nvim-base16',
+    -- 'projekt0n/github-nvim-theme',
 
     priority = 1000,
     config = function()
-      vim.cmd.colorscheme 'github_dark_colorblind'
+      vim.cmd.colorscheme 'base16-classic-dark'
     end,
   },
 
@@ -145,7 +145,7 @@ require("toggleterm").setup{
   shade_terminals = true,
   shading_factor = 2,
   persist_size = true,
-  direction = "vertical",
+  direction = "horizontal",
   start_in_insert = true,
   close_on_exit = true,
   shell = vim.o.shell
