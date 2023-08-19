@@ -111,6 +111,8 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 
 
 ---
+## Win Tools
+- [SmartTaskbar](https://apps.microsoft.com/store/detail/smarttaskbar/9PJM69MPS6T9?hl=en-us&gl=us&activetab=pivot%3Aoverviewtab)
 
 ## Tiling Window Manager
 just try it, trust me on this one you wont regret it.
