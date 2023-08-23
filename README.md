@@ -111,6 +111,12 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 
 
 ---
+
+
+## Version Control
+- [git](https://git-scm.com/)
+- [lazygit](https://github.com/jesseduffield/lazygit)
+
 ## Win Tools
 - [SmartTaskbar](https://apps.microsoft.com/store/detail/smarttaskbar/9PJM69MPS6T9?hl=en-us&gl=us&activetab=pivot%3Aoverviewtab)
 
