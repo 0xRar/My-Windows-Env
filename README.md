@@ -33,7 +33,7 @@ text editors like vim or nano to use the keyboard more, which is really good for
 
 - IDEs/Editors:
   * Used to use: [Visual Studio Code](https://code.visualstudio.com/)
-  * Current: [VSCodium](https://vscodium.com/), [lite-xl](https://lite-xl.com/), [neovim](https://neovim.io/) 
+  * Current: [VSCodium](https://vscodium.com/), [neovim](https://neovim.io/) 
   * [For java IntelliJ IDEA](https://www.jetbrains.com/idea/)
   
 
@@ -76,7 +76,7 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 
 
 - Windows Terminal Config/Appearance:<br>
-  * Font: [`Hack`](https://github.com/source-foundry/Hack), [`Monaco`](https://www.cufonfonts.com/font/monaco)
+  * Font: [`Hack`](https://github.com/source-foundry/Hack), [`Monaco`](https://www.cufonfonts.com/font/monaco), [`ComicShannsMono`](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/ComicShannsMono.zip)
   * Background: `#001B26`
   * Transparancy: `35%`
 
