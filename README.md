@@ -113,6 +113,11 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 ---
 
 
+## Note Taking
+- [Current: Obsidian](https://obsidian.md/)
+- [logseq](https://logseq.com/)
+- CherryTree
+
 ## Version Control
 - [git](https://git-scm.com/)
 - [lazygit](https://github.com/jesseduffield/lazygit)
