@@ -116,6 +116,7 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 ## Note Taking
 - [Current: Obsidian](https://obsidian.md/)
   - Theme: Sparkling Night
+  - Theme: Catppuccin
 - [logseq](https://logseq.com/)
 - CherryTree
 
