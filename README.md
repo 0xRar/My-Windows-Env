@@ -1,4 +1,4 @@
-# My-Windows-Env
+# windows-dotfiles
 This repo contains some of the tools i use and what type of
 themes and configurations i use.
 
@@ -110,12 +110,17 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 
 ![image](https://user-images.githubusercontent.com/33517160/175831527-b29eeb82-1cb9-4460-80cf-a06ec63f7ed9.png)
 
+- Wezterm Config/Appearance:<br>
+[.wezterm.lua](https://github.com/0xRar/windows-dotfiles/blob/main/.wezterm.lua)
+![image](https://github.com/user-attachments/assets/a56b3667-51e1-42be-9d8a-5e8266caa605)
+
 
 ---
 
 
 ## Note Taking
-- [Current: Obsidian](https://obsidian.md/)
+  - [Obsidian](https://obsidian.md/)
+  - [Current: Notion](https://notion.com)
   - Theme: Sparkling Night
   - Theme: Catppuccin
 - [logseq](https://logseq.com/)
