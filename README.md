@@ -65,7 +65,8 @@ Just like every windows user i used to use the defualt cmd or the normal system 
 - Apps:
   * [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us)
   * [PowerShell 7.2](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=us)
-
+  * [Wezterm](https://wezterm.org/)
+ 
 - Package Manager:
   * [scoop](https://scoop.sh/)
   * [chocolatey](https://chocolatey.org/)
@@ -132,4 +133,4 @@ just try it, trust me on this one you wont regret it.
 
 - [FancyWM](https://www.microsoft.com/store/apps/9p1741lkhqs9?cid=storebadge&ocid=badge)
 - [komorebi](https://github.com/LGUG2Z/komorebi)
-- Current: [workspacer](https://github.com/workspacer/workspacer)
+- [workspacer](https://github.com/workspacer/workspacer)
